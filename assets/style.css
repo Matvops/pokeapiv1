@@ -1,0 +1,80 @@
+.primary-color {
+    color: rgb(223, 43, 43);
+}
+
+.navigator-color-text {
+    color: white;
+    cursor: pointer;
+}
+
+.navigator-color-text:hover {
+    color: rgb(231, 231, 0);
+    transition: all;
+    transition-duration: 500ms;
+    transition-timing-function: ease-out;
+}
+
+
+.title-color-text {
+    color: white;
+    cursor: pointer;
+}
+
+.title-color-text:hover {
+    color: rgb(255, 242, 0);
+    transition: all;
+    transition-duration: 500ms;
+    transition-timing-function: ease-out;
+}
+
+.type-color-text {
+    color: white;
+    cursor: pointer;
+}
+
+.type-color-text:hover {
+    color: rgb(0, 252, 17);
+    transition: all;
+    transition-duration: 500ms;
+    transition-timing-function: ease-out;
+}
+
+.list-none {
+    list-style-type: none;
+}
+
+.sizing-pokeball {
+    width: 42px;
+}
+
+.poison-color {
+    background-color: purple;
+}
+
+.poison-color-subtle {
+    background-color: rgb(221, 129, 221);
+}
+
+.ground-color {
+    background-color: brown;
+}
+
+.ground-color-subtle {
+    background-color: rgb(176, 92, 92);
+}
+
+.fairy-color {
+    background-color: pink;
+}
+
+.fairy-color-subtle {
+    background-color: rgb(255, 228, 232);
+}
+
+.fairy-color {
+    background-color: pink;
+}
+
+.fairy-color-subtle {
+    background-color: rgb(255, 228, 232);
+}
