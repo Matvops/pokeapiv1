@@ -47,12 +47,21 @@
     width: 42px;
 }
 
+.text-poison-color {
+    color: purple;
+}
+
 .poison-color {
     background-color: purple;
 }
 
 .poison-color-subtle {
     background-color: rgb(221, 129, 221);
+}
+
+
+.text-ground-color {
+    color: brown;
 }
 
 .ground-color {
@@ -63,12 +72,8 @@
     background-color: rgb(176, 92, 92);
 }
 
-.fairy-color {
-    background-color: pink;
-}
-
-.fairy-color-subtle {
-    background-color: rgb(255, 228, 232);
+.text-fairy-color {
+    color: pink;
 }
 
 .fairy-color {

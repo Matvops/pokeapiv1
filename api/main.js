@@ -30,13 +30,14 @@ export default class ApiPokeService {
 
     async visalizarTipoPorNome(name)
     {
-        const response = await fetch(api + `type/${name}`);
+        const response = await fetch(this.api + `type/${name}/`);
 
         if(!response.ok) {
             throw new Error('Erro ao consultar API');
         }
 
         const data = await response.json();
+
 
         return data;
     }
